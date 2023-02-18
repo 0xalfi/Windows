@@ -1,2 +1,1 @@
-# Windows
-Anything about Windows OS
+# Anything about Windows OS
