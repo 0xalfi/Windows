@@ -6,6 +6,8 @@ C:\AMD is the driver install files folder, this is SAFE to delete if you need sp
 it's only recommended to keep the most recent 1 or 2 driver installers as a backup incase you 
 
 The actual install paths:
+```
 Radeon Software: C:\Program Files\AMD\CNext\CNext
 Ryzen Master: C:\Program Files\AMD\RyzenMaster
 Chipset Package: C:\Windows\System32\Drivers
+```
