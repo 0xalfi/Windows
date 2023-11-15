@@ -1,0 +1,5 @@
+HKEY_LOCAL_MACHINE | HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer
+
+Hide Any Power: New > Binary Value > Rename to 'NoLogOff' > Value data : 01 00 00 00
+Hide Turn Off : New > DWORD > Rename to 'NoClose' > Value data : 1
+Hide Run      : New > DWORD > Rename to 'NoRun' > Value data : 1
