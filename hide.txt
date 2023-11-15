@@ -1,6 +1,0 @@
-1. Open regedit
-2. HKEY_LOCAL_MACHINE | HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer
-3. Add some features within it.
-  
-Hide Any Power: New > Binary Value > Rename to 'NoLogOff' > Value data : 01 00 00 00
-Hide Turn Off : New > DWORD > Rename to 'NoClose' > Value data : 1
